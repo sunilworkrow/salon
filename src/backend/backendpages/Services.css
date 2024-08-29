@@ -1,0 +1,17 @@
+.categories-data-show-table{
+    margin: auto;
+    width: 64%;
+}
+
+
+.categories-table table, th, td {
+    border: 1px solid #d7d7d7;
+}
+
+.actions button {
+    border: 1px solid #0d6efd;
+    background: white;
+    border-radius: 6px;
+    color: #0d6efd;
+}
+

@@ -1,0 +1,59 @@
+.des-pera-box {
+        background: white;
+        padding: 17px 16px;
+        border-radius: 0px 0px 8px 8px;
+    }
+
+    .pera-box-heading {
+        margin-bottom: 0px;
+        border-bottom: 1px solid #e5e5e5;
+        padding: 17px 16px;
+        border-radius: 8px 8px 0px 0px;
+        background: #3c79d9;
+        color: white;
+        font-weight: 500;
+    }
+
+    .cust-select-box label {
+        font-weight: 600;
+        color: #323232;
+    }
+
+    .cust-des-pera-box{
+        background: white;
+        box-shadow: 0 0 1px rgba(0, 0, 0, .125), 0 1px 3px rgba(0, 0, 0, .2);
+        border-radius: 8px;
+    }
+    .services_area_img img {
+        width: 100px;
+    }
+
+    .services_area_box_item {
+        text-align: center;
+        background: white;
+        padding: 45px;
+        margin: 39px 0px;
+        box-shadow: 0 0 1px rgba(0, 0, 0, .125), 0 1px 3px rgba(0, 0, 0, .2);
+        border-radius: 8px;
+    }
+
+    .services_area_pra h3 {
+        font-size: 26px;
+        margin-top: 16px;
+    }
+
+    .add-new-button .button-add {
+        background: #007bff00;
+        color: #4b89e9;
+        padding: 4px 12px;
+        border: 1px solid #4b89e9;
+        border-radius: 21px;
+        font-weight: 400;
+    }
+
+    .add-new-button .button-add:hover {
+        background: #0052cc;
+        color: white;
+        border: 1px solid #0052cc;
+    }
+  
